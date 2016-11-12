@@ -1,0 +1,9 @@
+.DS_STORE
+*.log
+*.tmp
+testfolder
+writetest
+node_modules
+typings
+.vscode
+coverage
